@@ -1,4 +1,10 @@
-import java.util.Scanner;
+import java.util.Scanner;  
+//======================
+
+//MUnasar Farhan Elmi
+    //C1240306
+
+//======================
 public class Main {
     static String[] number={"614394528","613210617","617073967"};
     static double[] balances={500,300,400};
