@@ -1,3 +1,11 @@
+//================
+
+//Code runs in this file
+//Main part
+//run from here
+
+//=================
+
 public class Codes {
     static String[] codes={"*770#","*711#","*722#"};
     public static void main(String[] args) {
